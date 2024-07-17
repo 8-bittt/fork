@@ -5,25 +5,26 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Software Development Intern",
-    cardImage: "assets/images/experience-page/flipkart.jpg",
-    place: "Flipkart",
-    time: "(May, 2020 - present)",
-    desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    title: "Full-Stack Developer",
+    cardImage: "assets/images/experience-page/SharrdsGames.webp",
+    place: "CHTD Group (Roblox Development Group)",
+    time: "(June, 2024 - present)",
+    desp: "<li>Worked with Htdmodule to become a core part in developing the up-coming game HTD</li> <li>Helped develop many features for the game such as Towers, Trading, and many other systems intergrated in the game</li> <li>Helped maintain and create a functional Anti-Cheat for the game and intergrated hardcodes into the Towers to prevent exploitation of the games systems</li>",
   },
   {
-    title: "Student Developer",
-    cardImage: "assets/images/experience-page/gsoc.png",
-    place: "Google Summer Of Code",
-    time: "(Mar - Aug, 2019)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    title: "Freelance Developer",
+    cardImage: "assets/images/experience-page/TopTotal.png",
+    place: "Upwork, Toptal, and PeoplePerHour",
+    time: "(Mar, 2022 - present)",
+    desp: "<li>Worked as a freelancer for many websites</li><li>Contributed towards many semi succesful projects worked as both a Frontend and Backend developer</li><li>Created varios APIs, Anti-Cheats, and other useful Development tools to assist Full Time developers.</li>",
   },
   {
-    title: "Research Intern",
+    title: "N/A",
     cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
-    place: "IIT, Bombay",
-    time: "(Dec, 19 - Jan, 20)",
-    desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    place: "N/A",
+    time: "(N/A)",
+    desp: "<li>Currently Working On Filling This Out</li><li>##</li><li>##</li>",
+  },
   },
 ];
 
