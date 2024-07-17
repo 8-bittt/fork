@@ -20,7 +20,7 @@ const exp = [
   },
   {
     title: "N/A",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
+    cardImage: "assets/images/experience-page/image_2024-07-17_181530756.png",
     place: "N/A",
     time: "(N/A)",
     desp: "<li>Currently Working On Filling This Out</li><li>##</li><li>##</li>",
