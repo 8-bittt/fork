@@ -19,11 +19,11 @@ const exp = [
     desp: "<li>Worked as a freelancer for many websites</li><li>Contributed towards many semi succesful projects worked as both a Frontend and Backend developer</li><li>Created varios APIs, Anti-Cheats, and other useful Development tools to assist Full Time developers.</li>",
   },
   {
-    title: "N/A",
-    cardImage: "assets/images/experience-page/image_2024-07-17_181530756.png",
-    place: "N/A",
-    time: "(N/A)",
-    desp: "<li>Currently Working On Filling This Out</li><li>##</li><li>##</li>",
+    title: "Not Applicable",
+    cardImage: "assets/images/experience-page/NA.png",
+    place: "Not Applicable",
+    time: "(Not Applicable)",
+    desp: "<li>Currently Working On Filling This Out</li><li></li><li></li>",
   },
   },
 ];
