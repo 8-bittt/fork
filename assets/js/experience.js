@@ -25,7 +25,6 @@ const exp = [
     time: "(Not Applicable)",
     desp: "<li>Currently Working On Filling This Out</li><li></li><li></li>",
   },
-  },
 ];
 
 const showCards2 = () => {
