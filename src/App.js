@@ -67,7 +67,7 @@ function App() {
     <>
       <div className="App">
         <Helmet>
-          <title>John Doe | Home</title>
+          <title>8Bit | Home</title>
           <meta charset="UTF-8" />
           <meta
             name="viewport"
@@ -88,7 +88,7 @@ function App() {
             property="og:site_name"
             content="https://portfolio.smaranjitghose.codes/"
           />
-          <meta property="og:title" content="John Doe | Home" />
+          <meta property="og:title" content="8Bit | Home" />
           <meta
             property="og:description"
             content="An open source project aimed at providing free and beautiful templates to everyone for building their portfolio websites and showcase their work to the world."
@@ -99,7 +99,7 @@ function App() {
             content="https://portfolio.smaranjitghose.codes/"
           />
           <meta name="twitter:card" content="summary" />
-          <meta name="twitter:title" content="John Doe | Home" />
+          <meta name="twitter:title" content="8Bit | Home" />
           <meta
             name="twitter:description"
             content="An open source project aimed at providing free and beautiful templates to everyone for building their portfolio websites and showcase their work to the world."
@@ -108,8 +108,8 @@ function App() {
             name="twitter:url"
             content="https://portfolio.smaranjitghose.codes/"
           />
-          <meta name="application-name" content="John Doe | Home" />
-          <meta name="apple-mobile-web-app-title" content="John Doe | Home" />
+          <meta name="application-name" content="8Bit | Home" />
+          <meta name="apple-mobile-web-app-title" content="8Bit | Home" />
           <meta
             name="summary"
             content="An open source project aimed at providing free and beautiful templates to everyone for building their portfolio websites and showcase their work to the world."

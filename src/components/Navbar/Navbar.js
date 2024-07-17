@@ -91,7 +91,7 @@ const Navbar = () => {
             to="/"
             className={styles["link"]}
           >
-            John Doe
+            8Bit
           </Link>
         </div>
         {isMobile ? (

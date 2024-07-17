@@ -81,7 +81,7 @@ const Research = () => {
   return (
     <div>
       <Helmet>
-        <title>John Doe | Research</title>
+        <title>8Bit | Research</title>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0 , minimum-scale=1.0" />
         <meta
@@ -99,7 +99,7 @@ const Research = () => {
           property="og:site_name"
           content="https://portfolio.smaranjitghose.codes/research.html"
         />
-        <meta property="og:title" content="John Doe | Research" />
+        <meta property="og:title" content="8Bit | Research" />
         <meta
           property="og:description"
           content="An open source project aimed at providing free and beautiful templates to everyone for building their portfolio websites and showcase their work to the world."
@@ -110,7 +110,7 @@ const Research = () => {
           content="https://portfolio.smaranjitghose.codes/research.html"
         />
         <meta name="twitter:card" content="summary" />
-        <meta name="twitter:title" content="John Doe | Research" />
+        <meta name="twitter:title" content="8Bit | Research" />
         <meta
           name="twitter:description"
           content="An open source project aimed at providing free and beautiful templates to everyone for building their portfolio websites and showcase their work to the world."
@@ -119,8 +119,8 @@ const Research = () => {
           name="twitter:url"
           content="https://portfolio.smaranjitghose.codes/research.html"
         />
-        <meta name="application-name" content="John Doe | Research" />
-        <meta name="apple-mobile-web-app-title" content="John Doe | Research" />
+        <meta name="application-name" content="8Bit | Research" />
+        <meta name="apple-mobile-web-app-title" content="8Bit | Research" />
         <meta
           name="summary"
           content="An open source project aimed at providing free and beautiful templates to everyone for building their portfolio websites and showcase their work to the world."

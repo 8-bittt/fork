@@ -22,7 +22,7 @@ const Designs = () => {
   return (
     <>
       <Helmet>
-        <title>John Doe | Design</title>
+        <title>8Bit | Design</title>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta
@@ -40,7 +40,7 @@ const Designs = () => {
           property="og:site_name"
           content="https://portfolio.smaranjitghose.codes/design.html"
         />
-        <meta property="og:title" content="John Doe | Design" />
+        <meta property="og:title" content="8Bit | Design" />
         <meta
           property="og:description"
           content="An open source project aimed at providing free and beautiful templates to everyone for building their portfolio websites and showcase their work to the world."
@@ -51,7 +51,7 @@ const Designs = () => {
           content="https://portfolio.smaranjitghose.codes/design.html"
         />
         <meta name="twitter:card" content="summary" />
-        <meta name="twitter:title" content="John Doe | Design" />
+        <meta name="twitter:title" content="8Bit | Design" />
         <meta
           name="twitter:description"
           content="An open source project aimed at providing free and beautiful templates to everyone for building their portfolio websites and showcase their work to the world."
@@ -60,8 +60,8 @@ const Designs = () => {
           name="twitter:url"
           content="https://portfolio.smaranjitghose.codes/design.html"
         />
-        <meta name="application-name" content="John Doe | Design" />
-        <meta name="apple-mobile-web-app-title" content="John Doe | Design" />
+        <meta name="application-name" content="8Bit | Design" />
+        <meta name="apple-mobile-web-app-title" content="8Bit | Design" />
         <meta
           name="summary"
           content="An open source project aimed at providing free and beautiful templates to everyone for building their portfolio websites and showcase their work to the world."
