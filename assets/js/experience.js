@@ -62,10 +62,10 @@ document.addEventListener("DOMContentLoaded", showCards2);
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
-    title: "GirlScript Summer Of Code 2020",
-    cardImage: "assets/images/experience-page/1.jpg",
+    title: "Google Cloud Hackathon 2022",
+    cardImage: "assets/images/experience-page/TensorFlow",
     description:
-      "Responsible for handling the projects GirlScript App and GirlScript Website Boilerplate.",
+      "Responsible for developing a machine learning solution using TensorFlow, aimed at solving read world problems within a limited time frame.",
   },
   {
     title: "StudentCode-in 2020",
