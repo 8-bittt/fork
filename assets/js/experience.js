@@ -81,7 +81,7 @@ const volunteershipcards = [
   },
   {
     title: "MLH Local Hack Day",
-    cardImage: "assets/images/experience-page/4.jpg",
+    cardImage: "assets/images/experience-page/MlHIcon",
     description:
       "Responsible for building a mobile app that connects individuals who want to learn a skill with people who can teach them that skill.",
   },
