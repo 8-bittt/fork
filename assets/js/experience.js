@@ -80,10 +80,10 @@ const volunteershipcards = [
       "Responsible for creating an AR Application that enhances educational content for students. The app overlays interactive 3D Models and information on textbooks and/or real world objects",
   },
   {
-    title: "Hakin-Codes",
+    title: "MLH Local Hack Day",
     cardImage: "assets/images/experience-page/4.jpg",
     description:
-      "Mentoring for the open source projects Deeppixel, Awesome Developer Portfolios and Doc2Pen.",
+      "Responsible for building a mobile app that connects individuals who want to learn a skill with people who can teach them that skill.",
   },
 ];
 
