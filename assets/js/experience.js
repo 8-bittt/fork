@@ -63,7 +63,7 @@ const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
     title: "Google Cloud Hackathon 2022",
-    cardImage: "assets/images/experience-page/TensorFlow",
+    cardImage: "assets/images/experience-page/GoogleCloud",
     description:
       "Responsible for developing a machine learning solution using TensorFlow, aimed at solving read world problems within a limited time frame.",
   },
