@@ -68,16 +68,16 @@ const volunteershipcards = [
       "Responsible for developing a machine learning solution using TensorFlow, aimed at solving read world problems within a limited time frame.",
   },
   {
-    title: "StudentCode-in 2020",
+    title: "TechCrunch Disrupt 2023",
     cardImage: "assets/images/experience-page/2.jpg",
     description:
-      "Responsible for handling open source contributions for the project Awesome Developer Portfolio.",
+      "Responsible for developing an app that helps users understand their environmental impact based on their daily activities, along with suggestions from the app to reduce their carbon footprint.",
   },
   {
-    title: "PClub Summer Of Code 2020",
+    title: "TreeHack 2025",
     cardImage: "assets/images/experience-page/3.jpg",
     description:
-      "Mentoring for the projects Deep Pixel, AutoVaidya, Just Resume and Doc2pen.",
+      "Responsible for creating an AR Application that enhances educational content for students. The app overlays interactive 3D Models and information on textbooks and/or real world objects",
   },
   {
     title: "Hakin-Codes",
