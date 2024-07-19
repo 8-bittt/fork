@@ -71,7 +71,7 @@ const volunteershipcards = [
     title: "TechCrunch Disrupt 2023",
     cardImage: "assets/images/experience-page/TechCrunch",
     description:
-      "Responsible for developing an app that helps users understand their environmental impact based on their daily activities, along with suggestions from the app to reduce their carbon footprint.",
+      "Responsible for developing an app that helps users understand their environmental impact based on their daily activities",
   },
   {
     title: "TreeHack 2025",
