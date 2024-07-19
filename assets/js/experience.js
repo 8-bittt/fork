@@ -69,13 +69,13 @@ const volunteershipcards = [
   },
   {
     title: "TechCrunch Disrupt 2023",
-    cardImage: "assets/images/experience-page/2.jpg",
+    cardImage: "assets/images/experience-page/TechCrunch",
     description:
       "Responsible for developing an app that helps users understand their environmental impact based on their daily activities, along with suggestions from the app to reduce their carbon footprint.",
   },
   {
     title: "TreeHack 2025",
-    cardImage: "assets/images/experience-page/3.jpg",
+    cardImage: "assets/images/experience-page/TreeHack",
     description:
       "Responsible for creating an AR Application that enhances educational content for students. The app overlays interactive 3D Models and information on textbooks and/or real world objects",
   },
