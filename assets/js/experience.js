@@ -113,7 +113,7 @@ const mentor = [
   {
     title: "Google Developer Student Clubs - Thailand",
     subtitle: "Mentor",
-    image: "assets/images/image_2024-08-22_192949835.png",
+    image: "assets/images/experience-page/image_2024-08-22_192949835.png",
     desp: "As a high school and university student, I mentored peers in Thailand through Google Developer Student Clubs, guiding them through Applied Data Science and machine learning projects.",
     href: "https://developers.google.com/community/gdsc",
   },
