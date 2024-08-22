@@ -110,7 +110,7 @@ document.addEventListener("DOMContentLoaded", showCards);
 
 const hackathonsection = document.querySelector(".hackathon-section");
 const mentor = [
-{
+  {
     title: "Google Developer Student Clubs - Thailand",
     subtitle: "Mentor",
     image: "assets/images/experience-page/gdsc.png",
@@ -132,32 +132,11 @@ const mentor = [
     href: "https://hackclub.com/",
   },
   {
-    title: "Junior Achievement Thailand",
-    subtitle: "Mentor",
-    image: "assets/images/experience-page/ja.png",
-    desp: "As part of Junior Achievement Thailand, I mentored younger students in entrepreneurship and technology, helping them develop projects that integrate business and coding skills.",
-    href: "https://jaasiapacific.org/",
-  },
-  {
-    title: "Google Code-in",
-    subtitle: "Mentor",
-    image: "assets/images/experience-page/googlecodein.png",
-    desp: "I mentored high school students globally in Google Code-in, guiding them through open-source projects and helping them develop their coding skills.",
-    href: "https://codein.withgoogle.com/",
-  },
-  {
     title: "AtlasHacks",
     subtitle: "Mentor",
     image: "assets/images/experience-page/atlas.png",
     desp: "I mentored participants at AtlasHacks, a global hackathon aimed at fostering creativity within students from around the world, guiding them through coding challenges and project development.",
     href: "https://atlashacks2.devpost.com/",
-  },
-  {
-    title: "JITHack",
-    subtitle: "Mentor",
-    image: "assets/images/experience-page/jithack.png",
-    desp: "As a mentor for JITHack, I supported participants in a virtual design and development hackathon organized by students of Jyothy Institute of Technology, helping them build innovative projects in a 24-hour timeframe.",
-    href: "https://jithack.netlify.app/",
   },
   {
     title: "Citro Tech",
@@ -166,21 +145,8 @@ const mentor = [
     desp: "I mentored participants at Citro Hacks, an inclusive online hackathon organized by Citro Tech, a student-led organization dedicated to empowering minorities in the tech field.",
     href: "https://citro.tech/",
   },
-  {
-    title: "Recess Hacks",
-    subtitle: "Mentor",
-    image: "assets/images/experience-page/recess.png",
-    desp: "I served as a mentor at Recess Hacks, a hackathon for high school students in the Greater Toronto Area that encourages innovation and technology engagement.",
-    href: "https://recesshacks.com/",
-  },
-  {
-    title: "NHacks",
-    subtitle: "Mentor",
-    image: "assets/images/experience-page/nhacks.png",
-    desp: "As a mentor for NHacks VI, I helped students develop their skills in computer science by guiding them through project creation and coding challenges.",
-    href: "https://nhacks-vi.devpost.com/",
-  },
 ];
+
 const showCards3 = () => {
   let output = "";
   mentor.forEach(
