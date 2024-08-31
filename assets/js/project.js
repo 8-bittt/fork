@@ -7,9 +7,9 @@ const projectcards = document.querySelector(".projectcards");
 const projects = [
   {
     title: "Argus",
-    cardImage: "assets/images/project-page/quiz.jpg",
+    cardImage: "assets/images/project-page/DiscordBot.png",
     description: "Argus is a moderation bot with advanced features",
-    tagimg: "DiscordBot.png",
+    tagimg: "",
     Previewlink: "",
     Githublink: "https://github.com/8-bittt/Argus",
   },
